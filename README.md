@@ -1,7 +1,7 @@
-### Hi there, I'm Chris - aka [ChristopherDan1][website] 👋
+### Hi there, I'm Chris - aka [ChristopherDan1][https://christopherdan1.com] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.christopherdan1.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Christo90444450)
+[![Website](https://img.shields.io/website?label=christopherdan1.com&style=for-the-badge&url=https%3A%2F%2Fchristopherdan1.com)](https://www.christopherdan1.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Christo90444450?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Christo90444450)
 
 ## I'm a Developer, and Teacher!!
 
@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/s2sx3vrr5dcafep5p36p8jlap)
 
 ### Connect with me:
 
@@ -107,4 +107,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
