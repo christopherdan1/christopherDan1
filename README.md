@@ -44,7 +44,8 @@
 <!-- BLOG-POST-LIST:START -->
 
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- <!-- BLOG-POST-LIST:END -->
+- [Learn Javascript Faster by Hacking your Favorite Sites](https://www.thinkful.com/blog/learn-javascript-fast-by-hacking-your-favorite-websites/)
+ <!-- BLOG-POST-LIST:END -->
 
 </details>
 
