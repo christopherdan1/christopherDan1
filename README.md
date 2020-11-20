@@ -45,8 +45,9 @@
 
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Learn Javascript Faster by Hacking your Favorite Sites](https://www.thinkful.com/blog/learn-javascript-fast-by-hacking-your-favorite-websites/)
-- [Top 5 Tech Stacks](https://fullscale.io/blog/top-5-tech-stacks/) -[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/) -[MOST COMMON SOFTWARE BUGS CAUGHT DURING QA TESTING](https://www.strv.com/blog/most-common-software-bugs-caught-during-qa-testing)
- <!-- BLOG-POST-LIST:END -->
+- [Top 5 Tech Stacks](https://fullscale.io/blog/top-5-tech-stacks/) -[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+- [MOST COMMON SOFTWARE BUGS CAUGHT DURING QA TESTING](https://www.strv.com/blog/most-common-software-bugs-caught-during-qa-testing)
+<!-- BLOG-POST-LIST:END -->
 
 </details>
 
