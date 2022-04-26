@@ -1,7 +1,5 @@
 ### Hi there, I'm Chris - Creator of [https://www.holderdesigns.dev] 👋
-
-
-## I'm a Developer, and Teacher!!
+### I'm a Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
