@@ -1,4 +1,4 @@
-### Hi there, I'm Chris - aka [ChristopherDan1][https://www.holderdesigns.dev] 👋
+### Hi there, I'm Chris - Creator of [https://www.holderdesigns.dev] 👋
 
 
 ## I'm a Developer, and Teacher!!
